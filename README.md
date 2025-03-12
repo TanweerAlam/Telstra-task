@@ -1,2 +1,2 @@
-# Task 3 (Behaviour Driven Development with Cucumber)
-Answer for task 3 of the Telstra backend
+# Task 4: Code Cleanup with SonarQube
+Answer for task 4 of the Telstra backend
